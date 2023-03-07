@@ -1,7 +1,10 @@
 {
-    "scripts": {
-      "dev": "island dev docs",
-      "build": "island build docs",
-      "preview": "island start docs"
-    }
+  "scripts": {
+    "dev": "island dev docs",
+    "build": "island build docs",
+    "preview": "island start docs"
+  },
+  "dependencies": {
+    "islandjs": "^0.7.28"
+  }
 }
