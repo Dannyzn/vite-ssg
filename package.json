@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc -w"
   },
+  "bin": {
+    "island": "bin/island.js"
+  },
   "keywords": [],
   "author": "酒窝 <694518723@qq.com> (https://github.com/Dannyzn)",
   "license": "MIT",
