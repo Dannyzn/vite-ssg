@@ -1,4 +1,4 @@
-import { cac } from "cac";
+import  cac  from "cac";
 import { createDevServer } from "./dev";
 
 const version = require("../../package.json").version;
