@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "jsx": "react",
+      "jsx": "react-jsx" /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */,
       "outDir": "dist",
       "target": "ESNext" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
       "module": "commonjs" /* Specify what module code is generated. */,

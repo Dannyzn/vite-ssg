@@ -1,5 +1,4 @@
 import { useState } from "react";
-import React = require("react");
 
 export function Layout() {
   const [count, setCount] = useState(0);
