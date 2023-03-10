@@ -1,5 +1,5 @@
 import { createRoot } from "react-dom/client";
-import { App } from "../runtime/App";
+import { App } from "./App";
 
 function renderInBrowser() {
     // This is the entry point for the browser
